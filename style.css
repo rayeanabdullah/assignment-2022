@@ -1,0 +1,122 @@
+.starting{
+    font-weight: bold;
+    font-size: xx-large;
+    border-left: 5px solid rgba(87, 4, 36, 0.932);
+    font-family: georgia;
+    padding:5px;
+    text-align: left;
+    margin-left: 20px;
+}
+#mission{
+   color: rgba(189, 98, 24, 0.966);
+}
+img {
+    max-width: 150%;
+    max-height: 150%;
+   }
+   .photo {
+    height: 80%;
+    width: 70%;
+    margin-right: 20%;
+    margin-left: 0%;
+    margin-left: 10px;
+   }
+#paragraph{
+    background-position: left;
+    margin-left:25px;
+    text-align: justify;
+    font-size: large;
+    margin-right: 20px;
+     
+}
+#button{
+    background-color: rgba(87, 4, 36, 0.932);
+    height: 50px;
+    width: 120px;
+    font-weight: 600;
+    border-radius: 5px;
+    color: antiquewhite;
+}
+.section-1{
+    display: flex;
+    background-repeat: no-repeat;
+    margin-top: 10%;
+}
+.for-margin{
+    margin-left: 8%;
+}
+.heading{
+    text-align: center;
+    font-weight: bold;
+    font-family: georgia;
+    margin-top: 30px;
+}
+#year{
+    color: rgba(189, 98, 24, 0.966);
+}
+.box-1{
+    width: 250px;
+    padding: 30px;
+    background-color: rgba(121, 195, 255, 0.253);
+    margin-left: 10%;
+    border-radius: 20px;
+    
+}
+#illustrator-1{
+    height: 40%;
+    width: 35%;
+    margin-left: 0%;
+}
+.box-2{
+    width: 250px;
+    padding: 30px;
+    background-color: rgba(248, 174, 62, 0.151);
+    border-radius: 20px;   
+    margin-left: 20px;
+}
+#illustrator-2{
+    height: 40%;
+    width: 35%;
+    margin-left: 0%;
+}
+.box-3{
+    width: 250px;
+    padding: 30px;
+    background-color: rgba(255, 84, 232, 0.178);
+    border-radius: 20px;   
+    margin-left: 20px;
+}
+#illustrator-3{
+    height: 40%;
+    width: 35%;
+    margin-left: 0%;
+}
+.section-2{
+    display: flex;
+}
+.coding{
+    height: 60%;
+    width:  55%;
+    border-radius: 10px;
+    margin-left: 10%;
+    margin-right: 15px;
+}
+.paragraph-sec-3{
+    margin-right: 10%;
+    text-align: justify;
+    margin-left: 12%;
+    font-size: large;
+    margin-top: 4%;
+}
+#button-2{
+    height: 40px;
+    width: 200px;
+    background-color: rgba(87, 4, 36, 0.932);
+    border-radius: 5px;
+    font-weight: 600;
+    color: antiquewhite;
+}
+.section-3{
+    display: flex;
+    margin-top: 30px;
+}
